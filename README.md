@@ -1,6 +1,6 @@
-# Task Manager App
+# Chapter One - Simple Task Manager App
 
-A modern task management application built with React Native and Expo, featuring a clean interface, dark mode support, and intuitive task organization. This app helps users manage their tasks efficiently with a beautiful and user-friendly interface.
+A task management application built with React Native and Expo, featuring a clean interface, dark mode support, and intuitive task organization. This app helps users manage their tasks efficiently with a beautiful and user-friendly interface.
 
 ## Features
 
